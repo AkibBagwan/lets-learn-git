@@ -1,1 +1,2 @@
-print("akib")
+print("akib bagwan")
+print(12)
